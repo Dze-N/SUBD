@@ -1,4 +1,4 @@
-#Project Name: Bots shop
+# Project Name: Bots shop
 
 Демьянцев Никита 053503
 
